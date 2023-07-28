@@ -13,4 +13,4 @@ python calculator.py
 6.Click the "c" button to clear the calculator.
 
 <h2>Sample Outpur</h2>
-![calculator](https://github.com/venkataKoushik/CodeClause_Calculator/assets/123009890/d2c4732a-b1bf-46cd-a47b-880ff228c210)
+<img src="calculator.png">
