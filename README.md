@@ -6,7 +6,7 @@ This is a simple calculator application built using Python and tkinter. The appl
 
 1.Install Python 3 on your computer.<br>
 2.Run the following command to start the calculator:<br>
-     python calculator.py
+     python calculator.py<br>
 3.The calculator window will open.<br>
 4.Use the buttons to enter the numbers and operations you want to perform.<br>
 5.Click the "=" button to see the result.<br>
